@@ -9,3 +9,5 @@ This isn't really a virus. It's actually an anti virus test file. Your anti viru
 This virus will disable your internet acces. This is reversible by running the command IPconfig /renew.
 <h1>Matrix.bat</h1>
 This will show a the matrix-like screen.
+<h1>Shutdown.bat</h1>
+This will give you a pop up saying <b>You stupid. You downloaded a virus. This computer will shutdown in 60 seconds.</b> and will then shutdown your computer after 60 seconds.
