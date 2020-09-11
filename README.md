@@ -13,3 +13,5 @@ This will show a the matrix-like screen.
 This will give you a pop up saying <b>You stupid. You downloaded a virus. This computer will shutdown in 60 seconds.</b> and will then shutdown your computer after 60 seconds.
 <h1>DisableInternetIrreversible.bat</h1>
 Disables the internet on the target. <b>This is Irreversible!!</b>
+<h1>EndlessNotepad</h1>
+Opens infinite notepad windows.
